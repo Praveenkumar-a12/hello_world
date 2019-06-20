@@ -11,6 +11,7 @@ public class F {
 		
 		System.out.println(factorial(4));
 		System.out.println(factorial(5));
+		System.out.println(factorial(6));
 
 	}
 
